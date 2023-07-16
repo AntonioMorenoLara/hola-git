@@ -5,6 +5,4 @@ num = int(num);
 
 for i in range(num):
     
-    x = a + (i-a);
-
-    a = i
+    print(i);
