@@ -7,7 +7,4 @@ for i in range(num):
     
     print(i);
 
-<<<<<<< HEAD
 print('hola mundo');
-=======
->>>>>>> main
